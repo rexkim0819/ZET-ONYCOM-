@@ -1,2 +1,2 @@
-# ZET-ONYCOM-
+# ZET-ONYCOM
 onycom

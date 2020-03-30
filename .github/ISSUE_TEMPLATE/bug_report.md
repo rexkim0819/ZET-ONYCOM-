@@ -3,36 +3,22 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: ''
+assignees: rexkim0819
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+[사전조건]
+App Version : tomonote-2.3.115_1217_release
+N/W : WiFi Connected
+SD Card : Inserted
+Account : 혼합(노트+동화)
+Device : 엘지 태블릿
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+[문제 현상/실제결과]
+[LG_091] 앱 실행,종료 2회 반복시 "애플리케이션(프로세스)이 예상치 않게 중지됨_Sometimes
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+[실행절차]
+[LG_091] 앱 실행,종료 2회 반복중
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+[기대결과]
+앱 실행 할 수 있어야 함
